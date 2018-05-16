@@ -1,4 +1,4 @@
 DreamHouse Web App
 ------------------
 
-This sample app is a mobile web app for [DreamHouse](https://dreamhouse-site.herokuapp.com/) that runs on Heroku and optionally uses Heroku Connect to get data from Salesforce..
+This application is a mobile web app for DreamHouse Realty. It will run on Heroku and use Heroku Connect to get data from Salesforce.:
